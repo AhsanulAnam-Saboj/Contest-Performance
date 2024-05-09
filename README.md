@@ -2,17 +2,11 @@
 | Contest | Username | Rank | Type | Scope
 | -- | -------- | ----------- | ---- | ---- |
 | [EDU Inter University Programming Contest](https://drive.google.com/file/d/1dedX9DKYJpDzBYGWYAiFZcJvRUcYV4LQ/view?fbclid=IwAR06D0JZttiAVFEW98zWRVUGp9e2KxMqIioUi-Xmi9PUarjTdS5xg0PP_L0) | CoU_Last_Theke_First| 33 | Team |Regional|
-| [CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)]( https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | CoU_TernaryRootedTree| 8 | Team |Regional|
-| [Cefalo SUST Inter University Programming Contest](https://toph.co/c/sust-inter-university-2023/standings) | CoU_TernaryRootedTree| 38 | Team |National|
-| [2022 ICPC Asia Dhaka Regional Online Preliminary Contest](https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings) | CoU_TernaryRootedTree| 80 | Team |National|
-| [2022 ICPC ASIA DHAKA REGIONAL CONTEST](https://algo.codemarshal.org/contests/dhaka-22/standings) | CoU_TernaryRootedTree| 82 | Team |National|
-| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_DareToDreamAgain| 13 | Team |National|
-| [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_DareToDreamAgain| 4 | Team |Divisional|
-| [ICPC Preliminary Dhaka Site 2023 Preliminary](https://bapsoj.org/contests/icpc-preliminary-dhaka-2023/standings) | CoU_DareToDreamAgain| 36 | Team |National|
-| [The 2023 ICPC Asia Dhaka Regional Contest](https://icpc.global/regionals/finder/Dhaka-2024/standings) | CoU_DareToDreamAgain| 11 | Team |National|
-| [CUET Inter University Programming Contest CodeStorm 1.0](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) | CoU_NextDreamers| 45 | Team |National|
-| [PU IUPC 2024](https://drive.google.com/file/d/18RtwhBCQ5C03zFndpdQE2MXIfN-gyt2s/view?fbclid=IwAR3xJkd6mFvv0t7SQF2uClv7zlyYwIIpazVZh5lVk2UTy3_pCUSPHrRjgiY) | CoU_NextDreamers| 2 | Team |Divisional|
-| [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_NextDreamers| 10 | Team |National|
-| [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_DareToDreamAgain| 12 | Team |National|
-| [NCPC Onsite 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_DareToDreamAgain| 32 | Team |National|
+| [CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)]( https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | CoU_Hello_World!| 25 | Team |Regional|
+| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_Hello_World!| 47 | Team |National|
+| [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Hello_World!| 46 | Team |Divisional|
+| [PU IUPC 2024](https://drive.google.com/file/d/18RtwhBCQ5C03zFndpdQE2MXIfN-gyt2s/view?fbclid=IwAR3xJkd6mFvv0t7SQF2uClv7zlyYwIIpazVZh5lVk2UTy3_pCUSPHrRjgiY) | CoU_Hello_World!| 8 | Team |Divisional|
+| [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_SegmentHero!| 103 | Team |National|
+| [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_SegmentHero!| 184 | Team |National|
+| [NCPC Onsite 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_SegmentHero!| 148 | Team |National|
 
