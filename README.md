@@ -8,5 +8,6 @@
 | [PU IUPC 2024](https://drive.google.com/file/d/18RtwhBCQ5C03zFndpdQE2MXIfN-gyt2s/view?fbclid=IwAR3xJkd6mFvv0t7SQF2uClv7zlyYwIIpazVZh5lVk2UTy3_pCUSPHrRjgiY) | CoU_Hello_World!| 8 | Team |Divisional|
 | [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_SegmentHero!| 103 | Team |National|
 | [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_SegmentHero!| 184 | Team |National|
+| [NCPC Onsite JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_SegmentHero!| 146 | Team |National|
 | [ Orbitax BD CoU Campus Recruitment-2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | Ahsanul_Anam | 12 | Team |National|
 
