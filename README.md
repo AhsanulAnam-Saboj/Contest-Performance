@@ -10,4 +10,5 @@
 | [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_SegmentHero!| 184 | Team |National|
 | [NCPC Onsite JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_SegmentHero!| 146 | Team |National|
 | [ Orbitax BD CoU Campus Recruitment-2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | Ahsanul_Anam | 12 | Team |National|
+| [UITS Inter University Programming Contest-2022](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Hello_World! | 24 | Team |National|
 
