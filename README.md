@@ -9,7 +9,8 @@
 | [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_SegmentHero!| 103 | Team |National|
 | [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_SegmentHero!| 184 | Team |National|
 | [NCPC Onsite JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_SegmentHero!| 146 | Team |National|
-| [ Orbitax BD CoU Campus Recruitment-2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | Ahsanul_Anam | 12 | Team |On-campus|
+| [ Orbitax BD CoU Campus Recruitment-2023]() | Ahsanul_Anam | 12 | Team |On-campus|
 | [UITS Inter University Programming Contest-2022](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Hello_World! | 24 | Team |National|
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | Skadooosh | 39 | Team |National|
+| [2nd Round , SRBD Code Contest 2023]() | Skadooosh | | Team ||
 
