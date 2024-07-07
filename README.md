@@ -12,5 +12,5 @@
 | [ Orbitax BD CoU Campus Recruitment-2023]() | Ahsanul_Anam | 12 | Team |On-campus|
 | [UITS Inter University Programming Contest-2022](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Hello_World! | 24 | Team |National|
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | Skadooosh | 39 | Team |National|
-| [2nd Round , SRBD Code Contest 2023]() | Skadooosh | | Team |National|
+| [2nd Round , SRBD Code Contest 2023]() | Ahsanul_anam | | Team |National|
 
