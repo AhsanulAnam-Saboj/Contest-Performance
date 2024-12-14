@@ -13,6 +13,6 @@
 | [CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)]( https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | CoU_Hello_World!| 25 | Team |Regional|
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Hello_World!| 46 | Team |Divisional|
 | [EDU Inter University Programming Contest](https://drive.google.com/file/d/1dedX9DKYJpDzBYGWYAiFZcJvRUcYV4LQ/view?fbclid=IwAR06D0JZttiAVFEW98zWRVUGp9e2KxMqIioUi-Xmi9PUarjTdS5xg0PP_L0) | CoU_Last_Theke_First| 33 | Team |Regional|
-| [ Orbitax BD CoU Campus Recruitment-2023]() | Ahsanul_Anam | 12 | Team |On-campus|
+| [ Orbitax BD CoU Campus Recruitment-2023]() | Ahsanul_Anam | 12 | Individual |On-campus|
 | [2nd Round , SRBD Code Contest 2023]() | Ahsanul_anam | | Team |National|
 
