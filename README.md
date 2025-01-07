@@ -6,9 +6,10 @@
 | [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_SegmentHero!| 184 | Team |National|
 | [NCPC Onsite JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_SegmentHero!| 146 | Team |National|
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | Skadooosh | 39 | Team |National|
-| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_Hello_World!| 47 | Team |National|
-| [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_SegmentHero!| 103 | Team |National|
 | [UITS Inter University Programming Contest-2022](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Hello_World! | 24 | Team |National|
+| [CoU-BRACNet Inter University Programming Contest 2023](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | CoU_Hello_World!| 47 | Team |National|
+| [MIAKI Presents KUET IUPC Onsite 2025](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings) | !GivingUp | 65 | Team |National|
+| [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_SegmentHero!| 103 | Team |National|
 | [PU IUPC 2024](https://drive.google.com/file/d/18RtwhBCQ5C03zFndpdQE2MXIfN-gyt2s/view?fbclid=IwAR3xJkd6mFvv0t7SQF2uClv7zlyYwIIpazVZh5lVk2UTy3_pCUSPHrRjgiY) | CoU_Hello_World!| 8 | Team |Divisional|
 | [CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)]( https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | CoU_Hello_World!| 25 | Team |Regional|
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Hello_World!| 46 | Team |Divisional|
