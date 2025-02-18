@@ -17,6 +17,7 @@ A collection of my programming contest performances across various platforms and
 | [MIAKI Presents KUET IUPC Onsite 2025](https://bapsoj.org/contests/miaki-presents-kuet-iupc-onsite-2025/standings) | !GivingUp | **65** | Team | National |
 | [ICPC Asia Dhaka Regional 2024](https://bapsoj.org/contests/icpc-asia-dhaka-regional-contest-2024-onsite-round) | CoU_LastTryWithRST | **97** | Team | National |
 | [Inter University Programming Contest - SUST CSE Carnival 2024](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | CoU_SegmentHero! | **103** | Team | National |
+| [UIU Inter University Programming Contest 2025](https://bapsoj.org/contests/uiu-inter-university-programming-contest-2025) | CoU_LastTryWithRST | **112** | Team | National |
 | [ICPC Preliminary Dhaka Site 2024](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings) | CoU_LastTryWithRST | **114** | Team | National |
 | [NCPC Onsite JU 2023](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_SegmentHero! | **146** | Team | National |
 | [NCPC Preliminary JU 2023](https://bapsoj.org/contests/ncpc-preliminary-ju-2023/standings) | CoU_SegmentHero! | **184** | Team | National |
