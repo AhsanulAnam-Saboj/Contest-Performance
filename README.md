@@ -10,6 +10,7 @@ A collection of my programming contest performances across various platforms and
 | [Orbitax BD CoU Campus Recruitment-2023]() | Ahsanul_Anam | **12** | Individual | On-campus |
 | [UITS Inter University Programming Contest-2022](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) | CoU_Hello_World! | **24** | Team | National |
 | [CUET CSE Fest 2022 - Inter University Programming Contest (Divisional)](https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | CoU_Hello_World! | **25** | Team | Regional |
+| [CUSS Presents IT Fiesta 2024 IUPC](https://toph.co/contests/training/rxbqtb6/standings) | CoU_Skadoosh | **26** | Team | Regional |
 | [EDU Inter University Programming Contest](https://drive.google.com/file/d/1dedX9DKYJpDzBYGWYAiFZcJvRUcYV4LQ/view?fbclid=IwAR06D0JZttiAVFEW98zWRVUGp9e2KxMqIioUi-Xmi9PUarjTdS5xg0PP_L0) | CoU_Last_Theke_First | **33** | Team | Regional |
 | [IUT 11th National ICT Fest Programming Contest 2024](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | Skadooosh | **39** | Team | National |
 | [15th IIUC Inter University Programming Contest 2023](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | CoU_Hello_World! | **46** | Team | Divisional |
