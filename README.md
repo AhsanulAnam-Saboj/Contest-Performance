@@ -33,7 +33,7 @@ A collection of my programming contest performances across various platforms and
 🔗 **Check out my programming profiles:**  
 - **[Codeforces](https://codeforces.com/profile/Ahsanul_Anam_4632)**
 - **[CodeChef](https://www.codechef.com/users/ahsanulanam_03)**
-- **[ICPC Profile](https://icpc.global/private/person/587391/ICPCID)** (Replace `XXXXXX` with your actual ICPC ID)
+- **[ICPC Profile](https://icpc.global/private/person/587391/ICPCID)** 
 
 💡 *Passionate about problem-solving and competitive programming!*  
 ⭐ *Feel free to fork and star this repo if you find it helpful!*  
